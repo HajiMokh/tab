@@ -29,7 +29,8 @@ Use `./tabchi-TABCHI-ID.sh` to run your bot
 
 ## Developer
 
- * [Vahshi_Typer)](https://telegram.me/Vahshi_Typer)
+ * [Vahshi_Typer](https://telegram.me/Vahshi_Typer)
 
 *******CHANEEL*******
-[@RED_Ch)](https://telegram.me/Red_Ch)
+
+[@RED_Ch](https://telegram.me/Red_Ch)
