@@ -26,11 +26,10 @@ Enjoy Your New Bot!
 ## Run
 Use `./tabchi-TABCHI-ID.sh` to run your bot
 
-## Help and more...
-Send `/help` to [@TabChiRobot](https://telegram.me/TabChiRobot) in telegram
-## Developers
 
- * [BugFather (Amir_h)](https://telegram.me/BugFather)
- * [Base64 (Amin)](https://telegram.me/Base64)
+## Developer
 
-### Powered by iTeam
+ * [Vahshi_Typer)](https://telegram.me/Vahshi_Typer)
+
+*******CHANEEL*******
+[@RED_Ch)](https://telegram.me/Red_Ch)
